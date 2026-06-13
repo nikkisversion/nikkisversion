@@ -11,4 +11,4 @@ I'm actively looking for my next **Senior Software Development Engineer** role. 
 ---
 ### Where to find me:
 * **[LinkedIn](https://www.linkedin.com/in/nikita-r-7360b3114/)**
-* **Email:** nikrc15@gmail.com
+* **[Email](mailto:nikrc15@gmail.com)** 
