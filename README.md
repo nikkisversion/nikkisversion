@@ -1,4 +1,4 @@
-### Welcome to the Lab!
+### Welcome to the Lab! 🔮 
 
 I spent the last 6 years building enterprise data platforms with **Go and GCP**, but lately, I’ve been diving headfirst into low-level systems programming to see how things actually work under the hood. 
 
@@ -10,5 +10,5 @@ I'm actively looking for my next **Senior Software Development Engineer** role. 
 
 ---
 ### Where to find me:
-* **LinkedIn:** [LinkedIn]([https://://linkedin.com](https://www.linkedin.com/in/nikita-r-7360b3114/))
+* **[LinkedIn](https://://linkedin.com](https://www.linkedin.com/in/nikita-r-7360b3114/)**
 * **Email:** nikrc15@gmail.com
