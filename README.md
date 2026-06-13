@@ -7,8 +7,4 @@ I'm trying to resurrect a dusty 2012 32-bit netbook (2GB RAM, booting entirely o
 
 **What's Next:**
 I'm actively looking for my next **Senior Software Development Engineer** role. If you want to talk shop about Go infrastructure, edge AI pipelines, or just want to swap stories about practising your necromancy skills on old hardware, let’s connect! 
-
----
-### Where to find me:
-* **[LinkedIn](https://www.linkedin.com/in/nikita-r-7360b3114/)**
-* **[Email](mailto:nikrc15@gmail.com)** 
+Drop me a DM on [LinkedIn](https://www.linkedin.com/in/nikita-r-7360b3114/) or [email](mailto:nikrc15@gmail.com).
